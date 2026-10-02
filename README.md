@@ -1,36 +1,30 @@
-<div align="left">
+<div align="center">
 
-# Khalid Logic
-### AI Systems Architecture & Machine Learning Engineering
+  <!-- واجهة رسومية ضخمة ومتحركة بألوان الهوية البصرية -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:00599C,100:00f2fe&height=230&section=header&text=KHALID%20LOGIC&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20&%20Machine%20Learning%20Engineering%20|%20System%20Architecture&descAlignY=60&descSize=20" width="100%" alt="Header Banner" />
 
-Designing and deploying data-driven applications, automated AI workflows, and scalable software architectures. Focused on bridging the gap between raw machine learning models and production-ready business solutions.
-
----
-
-### ⚡ Core Capabilities
-
-* **AI & Language Models:** Prompt Engineering, RAG Pipelines, AI Agents & Workflow Automation.
-* **Machine Learning & Vision:** Predictive Modeling, Sentiment Analysis (NLP), Deep Learning & Computer Vision.
-* **System Architecture:** High-performance backend logic, Data Structures, and Interactive Web Deployments.
-
----
-
-### 🛠️ Technical Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-### 📫 Direct Contact & Collaborations
-For technical consultations, MVP development, or AI integration inquiries:
-* **Instagram:** [@khalid.logic](https://instagram.com/khalid.logic)
+  <!-- سطر متحرك يبرز التخصصات الدقيقة بمستوى عالٍ -->
+  <a href="https://github.com/khalidllogic">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Deep+Learning+%26+Computer+Vision+Architectures;End-to-End+NLP+%26+Predictive+ML+Pipelines;High-Performance+C%2B%2B+Systems+%26+Data+Structures;Advanced+LLM+Prompt+Engineering+%26+Optimization" alt="Typing SVG" />
+  </a>
 
 </div>
+
+---
+
+### ⚡ High-Level Engineering Capabilities
+
+```yaml
+AI_and_Deep_Learning:
+  - Designing Convolutional Neural Networks (CNNs) using PyTorch (ResNet50, EfficientNet, MobileNetV2).
+  - Building Deepfake & Synthetic Media Detection systems with high-accuracy image classification.
+  - Implementing Classical Search & Heuristic Algorithms (A*, Greedy Best-First, UCS, BFS/DFS).
+
+NLP_and_Machine_Learning:
+  - Engineering end-to-end Sentiment Analysis & Text Classification pipelines using Scikit-Learn.
+  - Deploying interactive data-driven web applications and inference interfaces via Streamlit.
+  - Structuring advanced Prompt Engineering frameworks to optimize Large Language Models (LLMs).
+
+Systems_and_Core_Architecture:
+  - Developing memory-efficient C++ applications utilizing custom Data Structures (BST, Doubly Linked Lists).
+  - Simulating 8-bit Digital Logic & Arithmetic Circuits (Adders, Multipliers, BCD Decoders).
