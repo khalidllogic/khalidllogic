@@ -8,21 +8,4 @@
 
 </div>
 
----
 
-### High-Level Engineering Capabilities
-
-```yaml
-AI_and_Deep_Learning:
-  - Designing Convolutional Neural Networks (CNNs) using PyTorch (ResNet50, EfficientNet, MobileNetV2).
-  - Building Deepfake & Synthetic Media Detection systems with high-accuracy image classification.
-  - Implementing Classical Search & Heuristic Algorithms (A*, Greedy Best-First, UCS, BFS/DFS).
-
-NLP_and_Machine_Learning:
-  - Engineering end-to-end Sentiment Analysis & Text Classification pipelines using Scikit-Learn.
-  - Deploying interactive data-driven web applications and inference interfaces via Streamlit.
-  - Structuring advanced Prompt Engineering frameworks to optimize Large Language Models (LLMs).
-
-Systems_and_Core_Architecture:
-  - Developing memory-efficient C++ applications utilizing custom Data Structures (BST, Doubly Linked Lists).
-  - Simulating 8-bit Digital Logic & Arithmetic Circuits (Adders, Multipliers, BCD Decoders).
